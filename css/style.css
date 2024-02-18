@@ -63,7 +63,7 @@ body {
   background-color: #2e2f42;
 }
 
-.sectiona-h1 {
+.sectiona-ha {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -87,7 +87,7 @@ body {
 .sectiona-button:focus {
   background-color: #404bbf;
 }
-.sectionb-h3 {
+.sectionb-hc {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -106,7 +106,7 @@ body {
   background-color: #f4f4fd;
 }
 
-.sectionc-h2 {
+.sectionc-hb {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
