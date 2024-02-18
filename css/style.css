@@ -32,10 +32,10 @@ body {
   color: #404bbf;
 }
 .nav-li-a:active {
-  font-weight: 500;
+  /* font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.02em; */
   color: #404bbf;
 }
 .header-adress {
@@ -54,8 +54,8 @@ body {
   color: #404bbf;
 }
 .header-adress-mail:active {
-  font-size: 16px;
+  /* font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.02em; */
   color: #404bbf;
 }
