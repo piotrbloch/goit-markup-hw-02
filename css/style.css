@@ -31,7 +31,7 @@ body {
   letter-spacing: 0.02em;
   color: #404bbf;
 }
-.nav-li-a:active {
+.nav-li-a:focus {
   /* font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -53,9 +53,80 @@ body {
   letter-spacing: 0.02em;
   color: #404bbf;
 }
-.header-adress-mail:active {
+.header-adress-mail:focus {
   /* font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em; */
   color: #404bbf;
+}
+.main-section {
+  background-color: #2e2f42;
+}
+
+.main-section1-h1 {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+
+.main-section1-button {
+  background-color: #4d5ae5;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+.main-section1-button:hover {
+  background-color: #404bbf;
+}
+.main-section1-button:active {
+  background-color: #404bbf;
+}
+.main-section2-h3 {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.main-section2-li-p {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.main-section3 {
+  background-color: #f4f4fd;
+}
+
+.main-section3-h2 {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.main-section3-li {
+  background-color: #ffffff;
+}
+
+.footer {
+  background-color: #2e2f42;
+}
+.footer-span {
+  color: #f4f4fd;
+}
+.footer-p {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
