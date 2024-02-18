@@ -59,11 +59,11 @@ body {
   letter-spacing: 0.02em; */
   color: #404bbf;
 }
-.main-section1 {
+.main-sectiona {
   background-color: #2e2f42;
 }
 
-.section1-h1 {
+.sectiona-h1 {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -71,7 +71,7 @@ body {
   color: #ffffff;
 }
 
-.section1-button {
+.sectiona-button {
   background-color: #4d5ae5;
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
@@ -81,13 +81,13 @@ body {
   color: #ffffff;
   cursor: pointer;
 }
-.section1-button:hover {
+.sectiona-button:hover {
   background-color: #404bbf;
 }
-.section1-button:focus {
+.sectiona-button:focus {
   background-color: #404bbf;
 }
-.section2-h3 {
+.sectionb-h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -95,18 +95,18 @@ body {
   color: #2e2f42;
 }
 
-.section2-p {
+.sectionb-p {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.main-section3 {
+.main-sectionc {
   background-color: #f4f4fd;
 }
 
-.section3-h2 {
+.sectionc-h2 {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -115,7 +115,7 @@ body {
   color: #2e2f42;
 }
 
-.section3-li {
+.sectionc-li {
   background-color: #ffffff;
 }
 
