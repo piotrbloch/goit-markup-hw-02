@@ -4,6 +4,10 @@ body {
   background-color: #ffffff;
 }
 
+.list {
+  list-style: none;
+}
+
 .nav-a {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
@@ -12,6 +16,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  text-decoration: none;
 }
 
 .nav-span {
@@ -23,6 +28,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-decoration: none;
+  list-style-type: none;
 }
 .nav-li-a:hover {
   font-weight: 500;
@@ -46,6 +53,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  text-decoration: none;
 }
 .header-adress-mail:hover {
   font-size: 16px;
